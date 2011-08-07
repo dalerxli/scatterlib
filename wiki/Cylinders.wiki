@@ -4,6 +4,12 @@ Wikipedia article on  [http://en.wikipedia.org/wiki/Mie_theory Mie approximation
 Wikipedia article [http://en.wikipedia.org/wiki/Codes_for_electromagnetic_scattering_by_cylinders codes for electromagnetic scattering by cylinders] provides list of the codes and relevant links and references. 
 
 
+==Cylinder scattering codes== 
+||Name || Author ||Type ||Description||
+||[[http://scatterlib.googlecode.com/files/bhcyl.zip BHCYL]||Bohren and Huffman||cylinder||This code is published in the appendix of Bohren and Huffman light scattering book||
+||[http://scatterlib.googlecode.com/files/mackowski_cylm.for cylm]||D. Mackowski|| cylinder, oblique incidence||calculates efficiencies for slant incidence||
+
+
 ==Barber and Hill codes for scattering by an cylinder at normal incidence==
 
 These codes were published in "Light Scattering by Particles: Computational Methods", P.W. Barber and S.C. Hill, 1990 by World Scientific Publishing. There are seven computer programs which may be used to calculate the light scattered by a cylinder when a plane wave is incident perpendicular to the cylinder axis.  One auxiliary program calculates test results using the small-particle approximation.  A second auxiliary program determines array dimensions for the seven basic programs.
