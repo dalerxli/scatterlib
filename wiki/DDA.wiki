@@ -6,3 +6,4 @@ Wikipedia article [http://en.wikipedia.org/wiki/Discrete_dipole_approximation_co
 ||Source code||Description||
 ||[http://code.google.com/p/ddscat/ DDSCAT] || Google code distribution of DDSCAT by Bruce Draine and Piotr J. Flatau||
 ||[http://code.google.com/p/a-dda/ a-dda] || Google code distribution of a-dda code by A. G. Hoekstra and M. A. Yurkin||
+||[http://scatterlib.googlecode.com/files/markel.zip MarCodes]||Markel's Coupled Dipole Equation Solvers) solve light scattering by an arbitrary cluster of point dipoles (monomers) using the conjugate gradient method (iterative) and the LU expension method (direct method)||
