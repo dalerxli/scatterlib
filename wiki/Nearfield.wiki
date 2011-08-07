@@ -53,8 +53,8 @@ scattering,” (1998), Applied Optics 37, 8482–8497.
 
 ==Other methods==
 ||Name||Description||Reference||
-||NFM-DS||Null Field Method with Discrete Sources (T-Matrix)||A. Doicu and T. Wriedt, “Near-field computation using the null-field method,” J. Quant. Spectrosc. Radiat. Transf. 111, 466–473, 2010|| 
-||FEM  || COMSOL Multiphysics || COMSOL Multiphysics demonstration CD-ROM can be requested at http://www.comsol.com)||
+||NFM-DS||Null Field Method with Discrete Sources (T-Matrix)||A. Doicu and T. Wriedt, Near-field computation using the null-field method, J. Quant. Spectrosc. Radiat. Transf. 111, 466–473, 2010|| 
+||FEM  || COMSOL Multiphysics || COMSOL Multiphysics demonstration CD-ROM can be requested at http://www.comsol.com||
 ||MMP 3D || MMP method ||C. Hafner and L. Bomholt, The 3D electromagnetic wave simulator, Wiley, 1993||
 
 Reference:
