@@ -18,7 +18,7 @@ This code was originally published in the Appendix of "Absorption and Scattering
 ||Name||Author||Type||Language||Description||
 ||Mieplot||Philip Laven||Mie||Visual Basic||Based on the BHMIE code, this Visual Basic interface offers an easy-to-use interface providing graphs of intensity v. scattering angle, wavelength, radius and refractive index. [http://www.philiplaven.com/mieplot.htm Mieplot home page]||
 
-==Other Mie codes==
+==Other single sphere Mie codes==
 || Name|| Author || Type|| Language|| Description||
 ||[http://scatterlib.googlecode.com/files/wiscombe_miev.zip MIEV0]||  Wiscombe || Mie || Fortran|| This code comes with extensive set of self-tests and extensive documentation. ||
 ||[http://scatterlib.googlecode.com/files/wiscombe_mieapx.zip CAM] || Wiscombe || Approximation || Fortran|| For large size parameters!  A package of routines to calculate the three Mie efficiency factors Q-ext, Q-abs and Q-pr (extinction, absorption, radiation pressure) using CAM approximations. These approximations are only useful (accurate to better than 10% or so) for size parameters above about 20 for Q-ext and above about 100 for Q-abs and Q-pr. Note that the Mie curves have a lot of ripple which makes comparisons at individual size parameters almost useless; you must plot the Mie and approximate curves for a short range of size parameter to see the overall accuracy of the approximations. ||
@@ -40,10 +40,13 @@ The source code is available here [http://scatterlib.googlecode.com/files/barber
 ||ray.for ||  calculate results using small-particle approximation||
 ||dim.for  || obtain array dimensions for all programs||
 
+
+==Coated sphere==
+||Name||Author||Type||Description||
+||[http://scatterlib.googlecode.com/files/bhcoat.zip  BHCOAT]||Bohren and Huffman||coated sphere||This code is published in the appendix of Bohren and Huffman light scattering book||
+||[http://scatterlib.googlecode.com/files/wiscombe_dmilay.zip DMlLAY]||Toon and Ackerman||coated sphere||This subroutine computes electromagnetic scattering by a stratified sphere (a particle with a spherical core surrounded by a spherical shell. Applied Optics, 20, 3657, 1981||
+
 ==Multiple spheres==
-
-
-
 ||Name||Author||Type||Description||
 ||[http://scatterlib.googlecode.com/files/xu_codes.zip  GMM], [http://scatterlib.googlecode.com/files/xu_description.zip documentation], [http://scatterlib.googlecode.com/files/xu_papers.zip papers]||Xu||multisphere||Fortran codes which calculate (exactly) electromagnetic scattering by an aggregate of spheres in a single orientation or at an average over individual orientations (these codes were previously available on http://www.astro.ufl.edu/~xu/codes.htm)||
 ||[http://scatterlib.googlecode.com/files/mackowski_spheres.zip Mackowski]||Mackowski||multiplesphere||codes for calculation of the scattering matrix and cross sections of neighboring, non-intersecting spheres.||
