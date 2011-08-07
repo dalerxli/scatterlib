@@ -10,13 +10,13 @@ the nine basic programs.
 The source code is available here [http://scatterlib.googlecode.com/files/barber.zip barber.zip].
 
 || Name||Description||
-||T1.for ||     convergence test and store [T] matrix||
-||T2.for ||     scattering for fixed orientation - use [T] matrix||
-||T3.for ||     scattering in all directions for a particle in fixed orientation - use [T] matrix||
-||T4.for ||     scattering for 2D random orientation - use [T] matrix||
-||T5.for ||     scattering for 3D random orientation - use [T] matrix||
-||T6.for ||     scattering matrix calculations - use [T] matrix||
+||T1.for ||     convergence test and store T matrix||
+||T2.for ||     scattering for fixed orientation - use T matrix||
+||T3.for ||     scattering in all directions for a particle in fixed orientation - use T matrix||
+||T4.for ||     scattering for 2D random orientation - use T matrix||
+||T5.for ||     scattering for 3D random orientation - use T matrix||
+||T6.for ||     scattering matrix calculations - use T matrix||
 ||T7.for ||     scattering efficiency vs size parameter||
-||T8.for ||     internal intensity distribution - 2D and 3D - use [A] matrix||
-||T9.for  ||    external intensity distribution - 2D and 3D - use [T] matrix||
+||T8.for ||     internal intensity distribution - 2D and 3D - use A matrix||
+||T9.for  ||    external intensity distribution - 2D and 3D - use T matrix||
 ||dim.for  ||   obtain nrank-dependent array dimensions for all programs||
