@@ -1,0 +1,25 @@
+#labels Featured
+=Scattering by spheres=
+Mie theory, also called Lorenz-Mie theory or Lorenz-Mie-Debye theory, is an analytical solution of Maxwell's equations for the scattering of electromagnetic radiation by spherical particles (also called Mie scattering) in terms of infinite series. The Mie solution is named after its developer, German physicist Gustav Mie. However, Danish physicist Ludvig Lorenz and others independently developed the theory of electromagnetic plane wave scattering by a dielectric sphere. The term "Mie solution" is sometimes used more generically for any analytical solution in terms of infinite series, for example in case of concentric spheres, or cluster of spheres, or infinite cyliders. However, in this section we consider only **homogeneous spheres**. 
+
+Wikipedia article on  [http://en.wikipedia.org/wiki/Mie_theory Mie approximation] provides description of the theory. 
+Wikipedia article [http://en.wikipedia.org/wiki/Codes_for_electromagnetic_scattering_by_spheres codes for electromagnetic scattering by spheres] provides list of the codes and relevant links and references. 
+
+==Bohren and Huffman codes==
+This code was originally published in the Appendix of "Absorption and Scattering of Light by Small Particles"  by Bohren, Craig F., Huffman, Donald R, 1983, Wiley, New York, 530 pages. 
+|| Name|| Author || Type||Language||Description||
+|| [http://scatterlib.googlecode.com/files/bhmie-f.zip bhmie (Fortran)] || Bohren and Huffman ||  Mie|| Fortran||This code is published in the appendix of Bohren and Huffman light scattering book and is probably one of the most heavily used Mie codes. Well documented and highly recommended.  The code is available here with slight extension; calculation of asymmetry paremeter (done by B. T.  Draine of Princeton University) ||
+|| [http://scatterlib.googlecode.com/files/bhmie-c.zip bhmie (C)] || Bohren and Huffman ||  Mie|| C|| Translation of  Bohren and Huffman code||
+|| [http://scatterlib.googlecode.com/files/bhmie-idl.zip bhmie (IDL)] || Bohren and Huffman ||  Mie||  IDL|| Translation by Piotr Flatau ||
+|| [http://scatterlib.googlecode.com/files/bhmie-matlab.zip bhmie (Matlab)] || Bohren and Huffman ||  Mie|| Matlab|| Translation  ||
+|| [http://scatterlib.googlecode.com/files/bhmie.py bhmie (Python)] || Bohren and Huffman || Mie || Python|| Herbert Kaiser (University of Konstanz, Germany)||
+
+==Mie GUI==
+||Name||Author||Type||Language||Description||
+||Mieplot||Philip Laven||Mie||Visual Basic||Based on the BHMIE code, this Visual Basic interface offers an easy-to-use interface providing graphs of intensity v. scattering angle, wavelength, radius and refractive index. [http://www.philiplaven.com/mieplot.htm Mieplot home page]||
+
+==Other Mie codes==
+|| Name|| Author || Type|| Language|| Description||
+||MIEV0||  W. Wiscombe || Mie || Fortran|| This code comes with extensive set of self-tests and extensive documentation. ||
+||CAM || Wiscombe || Approximation || Fortran|| For large size parameters!  A package of routines to calculate the three Mie efficiency factors Q-ext, Q-abs and Q-pr (extinction, absorption, radiation pressure) using CAM approximations. These approximations are only useful (accurate to better than 10% or so) for size parameters above about 20 for Q-ext and above about 100 for Q-abs and Q-pr. Note that the Mie curves have a lot of ripple which makes comparisons at individual size parameters almost useless; you must plot the Mie and approximate curves for a short range of size parameter to see the overall accuracy of the approximations. ||
+||Barber and Hill codes ||Mie ||Barber and Hill|| Fortran|| S1.for (a) efficiencies (ext.,sca.,abs.) vs size parameter (b) intensity at a scattering angle vs size parameter (c) angular scattering over a plane; S2.for angular scattering in all directions ; S3.for scattering matrix calculations ; S4.for internal and external coefficients vs size parameter ; S5.for angle-averaged intensities, internal and near-field ; S6.for surface intensity - internal and external ; S7.for internal intensity distribution - 2D and 3D ; S8.for external intensity distribution - 2D and 3D ||
