@@ -14,12 +14,29 @@ This code was originally published in the Appendix of "Absorption and Scattering
 || [http://scatterlib.googlecode.com/files/bhmie-matlab.zip bhmie (Matlab)] || Bohren and Huffman ||  Mie|| Matlab|| Translation  ||
 || [http://scatterlib.googlecode.com/files/bhmie.py bhmie (Python)] || Bohren and Huffman || Mie || Python|| Herbert Kaiser (University of Konstanz, Germany)||
 
-==Mie GUI==
+==Bohren and Huffman Mie Graphical User Interfaces==
 ||Name||Author||Type||Language||Description||
 ||Mieplot||Philip Laven||Mie||Visual Basic||Based on the BHMIE code, this Visual Basic interface offers an easy-to-use interface providing graphs of intensity v. scattering angle, wavelength, radius and refractive index. [http://www.philiplaven.com/mieplot.htm Mieplot home page]||
 
+
+==Barber and Hill scattering by a sphere codes (Mie solution)==
+These codes were published in "Light Scattering by Particles: Computational Methods", P.W. Barber and S.C. Hill, 1990 by World Scientific Publishing. There are eight computer programs which may be used to calculate the light scattered by a sphere. One auxiliary program calculates test results using the small-particle approximation.  A second auxiliary program determines array dimensions for the eight basic programs.
+
+|| Name||Description||
+||S1.for||    (a)  efficiencies (ext.,sca.,abs.) vs size parameter, (b)  intensity at a scattering angle vs size parameter, (c)  angular scattering over a plane||
+||S2.for ||   angular scattering in all directions||
+||S3.for ||   scattering matrix calculations||
+||S4.for ||   internal and external coefficients vs size parameter||
+||S5.for ||   angle-averaged intensities, internal and near-field||
+||S6.for ||   surface intensity - internal and external||
+||S7.for ||   internal intensity distribution - 2D and 3D||
+||S8.for ||   external intensity distribution - 2D and 3D||
+||ray.for ||  calculate results using small-particle approximation||
+||dim.for  || obtain array dimensions for all programs||
+
+
 ==Other Mie codes==
 || Name|| Author || Type|| Language|| Description||
-||MIEV0||  W. Wiscombe || Mie || Fortran|| This code comes with extensive set of self-tests and extensive documentation. ||
+||MIEV0||  Wiscombe || Mie || Fortran|| This code comes with extensive set of self-tests and extensive documentation. ||
 ||CAM || Wiscombe || Approximation || Fortran|| For large size parameters!  A package of routines to calculate the three Mie efficiency factors Q-ext, Q-abs and Q-pr (extinction, absorption, radiation pressure) using CAM approximations. These approximations are only useful (accurate to better than 10% or so) for size parameters above about 20 for Q-ext and above about 100 for Q-abs and Q-pr. Note that the Mie curves have a lot of ripple which makes comparisons at individual size parameters almost useless; you must plot the Mie and approximate curves for a short range of size parameter to see the overall accuracy of the approximations. ||
 ||Barber and Hill codes ||Mie ||Barber and Hill|| Fortran|| S1.for (a) efficiencies (ext.,sca.,abs.) vs size parameter (b) intensity at a scattering angle vs size parameter (c) angular scattering over a plane; S2.for angular scattering in all directions ; S3.for scattering matrix calculations ; S4.for internal and external coefficients vs size parameter ; S5.for angle-averaged intensities, internal and near-field ; S6.for surface intensity - internal and external ; S7.for internal intensity distribution - 2D and 3D ; S8.for external intensity distribution - 2D and 3D ||
