@@ -59,4 +59,4 @@ scattering,” (1998), Applied Optics 37, 8482–8497.
 
 Reference:
 
-Karamehmedovic M., R. Schuh, V. Schmidt, T. Wriedt, C. Matyssek, W. Hergert, A. Stalmashonak, G. Seifert and O. Stranik, “Comparison of numerical meutation for metallic nanoparticles,” (2011), Optics Express 19, 8939.thods in near-field comp
+Karamehmedovic M., R. Schuh, V. Schmidt, T. Wriedt, C. Matyssek, W. Hergert, A. Stalmashonak, G. Seifert and O. Stranik, “Comparison of numerical meutation for metallic nanoparticles,” (2011), Optics Express 19, 8939.
