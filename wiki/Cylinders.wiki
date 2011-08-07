@@ -6,7 +6,7 @@ Wikipedia article [http://en.wikipedia.org/wiki/Codes_for_electromagnetic_scatte
 
 ==Cylinder scattering codes== 
 ||Name || Author ||Type ||Description||
-||[[http://scatterlib.googlecode.com/files/bhcyl.zip BHCYL]||Bohren and Huffman||cylinder||This code is published in the appendix of Bohren and Huffman light scattering book||
+||[http://scatterlib.googlecode.com/files/bhcyl.zip BHCYL]||Bohren and Huffman||cylinder||This code is published in the appendix of Bohren and Huffman light scattering book||
 ||[http://scatterlib.googlecode.com/files/mackowski_cylm.for cylm]||D. Mackowski|| cylinder, oblique incidence||calculates efficiencies for slant incidence||
 
 
