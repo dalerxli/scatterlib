@@ -22,6 +22,8 @@ This code was originally published in the Appendix of "Absorption and Scattering
 ==Barber and Hill scattering by a sphere codes (Mie solution)==
 These codes were published in "Light Scattering by Particles: Computational Methods", P.W. Barber and S.C. Hill, 1990 by World Scientific Publishing. There are eight computer programs which may be used to calculate the light scattered by a sphere. One auxiliary program calculates test results using the small-particle approximation.  A second auxiliary program determines array dimensions for the eight basic programs.
 
+The source code is available here [http://scatterlib.googlecode.com/files/barber.zip barber.zip].
+
 || Name||Description||
 ||S1.for||    (a)  efficiencies (ext.,sca.,abs.) vs size parameter, (b)  intensity at a scattering angle vs size parameter, (c)  angular scattering over a plane||
 ||S2.for ||   angular scattering in all directions||
