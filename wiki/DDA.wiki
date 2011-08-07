@@ -1,0 +1,8 @@
+#labels Featured
+=Discrete dipole approximation=
+Wikipedia article [http://en.wikipedia.org/wiki/Discrete_dipole_approximation_codes codes for discrete dipole approximation] provides documentation of various codes and relevant links. Wikipedia article on [http://en.wikipedia.org/wiki/Discrete_dipole_approximation discrete dipole approximation] provides details of the method, applications, and references.
+
+
+||Source code||Description||
+||[http://code.google.com/p/ddscat/ DDSCAT] || Google code distribution of DDSCAT by Bruce Draine and Piotr J. Flatau||
+||[http://code.google.com/p/a-dda/ a-dda] || Google code distribution of a-dda code by A. G. Hoekstra and M. A. Yurkin||
