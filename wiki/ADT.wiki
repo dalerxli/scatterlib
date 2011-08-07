@@ -9,4 +9,4 @@ Wikipedia article on [http://en.wikipedia.org/wiki/Anomalous_Diffraction_Theory 
 
 
 ||Name || Author || Description ||
-||[http://scatterlib.googlecode.com/files/adscat.zip ADSCAT || P. J. Flatau || ADT implementation ||
+||[http://scatterlib.googlecode.com/files/adscat.zip ADSCAT] || P. J. Flatau || ADT implementation ||
