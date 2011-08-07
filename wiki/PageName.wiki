@@ -1,5 +1,5 @@
 #labels Featured
-#Spheres
+=Spheres=
 ==Scattering by spheres==
 Mie theory, also called Lorenz-Mie theory or Lorenz-Mie-Debye theory, is an analytical solution of Maxwell's equations for the scattering of electromagnetic radiation by spherical particles (also called Mie scattering) in terms of infinite series. The Mie solution is named after its developer, German physicist Gustav Mie. However, Danish physicist Ludvig Lorenz and others independently developed the theory of electromagnetic plane wave scattering by a dielectric sphere. The term "Mie solution" is sometimes used more generically for any analytical solution in terms of infinite series, for example in case of concentric spheres, or cluster of spheres, or infinite cyliders. However, in this section we consider only **homogeneous spheres**. 
 
