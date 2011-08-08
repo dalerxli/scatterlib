@@ -5,10 +5,10 @@ Wikipedia article [http://en.wikipedia.org/wiki/Codes_for_electromagnetic_scatte
 
 
 ==Cylinder scattering codes== 
-||Name || Author ||Type ||Description||
-||[http://scatterlib.googlecode.com/files/bhcyl.zip BHCYL]||Bohren and Huffman||cylinder||This code is published in the appendix of Bohren and Huffman light scattering book||
-||[http://scatterlib.googlecode.com/files/mackowski_cylm.for cylm]||D. Mackowski|| cylinder, oblique incidence||calculates efficiencies for slant incidence||
-
+||Name || Author ||Type ||Description/References||
+||[http://scatterlib.googlecode.com/files/bhcyl.zip BHCYL]||Bohren and Huffman||cylinder||This code is published in the appendix of Bohren and Huffman light scattering book|| 
+||[http://scatterlib.googlecode.com/files/mackowski_cylm.for cylm]||Daniel Mackowski|| cylinder, oblique incidence||Calculates efficiencies for slant incidence|| 
+||[http://scatterlib.googlecode.com/files/SCAOBLIQ2_ver83.for ASMAA]||Hashim A. Yousif||Scattering of EM light from cylinder at oblique incidence||H.  A.  Yousif  and  E.  Boutros,  "A  FORTRAN  code  for  the scattering of EM-plane waves  by an infinitely  long cylinder at oblique  incidence,"  Comput.  Phys.  Commun.  69,  406-414 (1992)||
 
 ==Barber and Hill codes for scattering by an cylinder at normal incidence==
 
