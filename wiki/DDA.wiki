@@ -5,6 +5,6 @@ Wikipedia article [http://en.wikipedia.org/wiki/Discrete_dipole_approximation_co
 
 ||Source code||Description||Description/Reference||
 ||[http://code.google.com/p/ddscat/ DDSCAT] || Google code distribution of DDSCAT by Bruce Draine and Piotr J. Flatau|| || 
-||[http://code.google.com/p/DDSCAT-mu.zip/ DDSCAT-MU]||Extension of DDSCAT6.1 by Yu You to non-unit magnetic permeability ||Yu You, George W. Kattawar, Peng-Wang Zhai, and Ping Yang, "Zero-backscatter cloak for aspherical particles using a generalized DDA formalism," Opt. Express 16, 2068-2079 (2008)  ||
+||[http://scatterlib.googlecode.com/files/DDSCAT-mu.zip/ DDSCAT-MU]||Extension of DDSCAT6.1 by Yu You to non-unit magnetic permeability ||Yu You, George W. Kattawar, Peng-Wang Zhai, and Ping Yang, "Zero-backscatter cloak for aspherical particles using a generalized DDA formalism," Opt. Express 16, 2068-2079 (2008)  ||
 ||[http://code.google.com/p/a-dda/ a-dda] || Google code distribution of a-dda code by A. G. Hoekstra and M. A. Yurkin|| ||
 ||[http://scatterlib.googlecode.com/files/markel.zip MarCodes]||Markel's Coupled Dipole Equation Solvers) solve light scattering by an arbitrary cluster of point dipoles (monomers) using the conjugate gradient method (iterative) and the LU expension method (direct method)|| ||
