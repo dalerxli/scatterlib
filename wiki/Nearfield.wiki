@@ -22,7 +22,7 @@ The source code is available here [http://scatterlib.googlecode.com/files/barber
 ==Near field for cluster of spheres==
 
 || Name||Description||
-||GMM-field ||Moritz Ringler extension of  Xu's GMM program  published in "Plasmonische Nahfeldresonatoren aus zwei biokonjugierten Goldnanopartikeln", Dissertation Ludwig Maximilians Universität, München 2008 ||
+||[http://scatterlib.googlecode.com/files/GMM_FIELD.zip GMM-field] ||Moritz Ringler extension of  Xu's GMM program  published in "Plasmonische Nahfeldresonatoren aus zwei biokonjugierten Goldnanopartikeln", Dissertation Ludwig Maximilians Universität, München 2008 ||
 
 Other references
 
