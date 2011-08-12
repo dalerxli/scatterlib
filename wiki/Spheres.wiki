@@ -49,4 +49,5 @@ The source code is available here [http://scatterlib.googlecode.com/files/barber
 ==Multiple spheres==
 ||Name||Author||Type||Description||
 ||[http://scatterlib.googlecode.com/files/xu_codes.zip  GMM], [http://scatterlib.googlecode.com/files/xu_description.zip documentation], [http://scatterlib.googlecode.com/files/xu_papers.zip papers]||Xu||multisphere||Fortran codes which calculate (exactly) electromagnetic scattering by an aggregate of spheres in a single orientation or at an average over individual orientations (these codes were previously available on http://www.astro.ufl.edu/~xu/codes.htm)||
+||[http://scatterlib.googlecode.com/files/GMM_FIELD.zip  GMM near field]||Xu and Moritz Ringler ||multisphere nearfield||Fortran codes which calculate (exactly) electromagnetic scattering by an aggregate of spheres including nearfield extension by Moritz Ringler||
 ||[http://scatterlib.googlecode.com/files/mackowski_spheres.zip Mackowski]||Mackowski||multiplesphere||codes for calculation of the scattering matrix and cross sections of neighboring, non-intersecting spheres.||
