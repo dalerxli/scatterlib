@@ -1,9 +1,9 @@
 #labels Featured
 =Approximations=
+Several methods offer approximate but sometimes computationally fast techniques to light scattering by particles. Applicability of these approximate methods depends on refractive index, size parameter, phase shift of light within a particle. H. C. van de Hulst provides good characterization of these various methods.
 
-This classification was introduced originally by H. C. van de Hulst.
 
-
+Anomalous diffraction approximation (ADT, ADA, anomalous diffraction theory, van de Hulst approximation, eikonal approximation, high energy approximation, soft particle approximation) applies when an absolute value of refractive index is  close to 1, and size parameter should be large. The main advantage of the ADT is that one can (a) calculate, in closed form, extinction, scattering, and absorption efficiencies for many typical size distributions; (b) find solution to the inverse problem of predicting size distribution from light scattering experiments (several wavelengths); (c) for parameterization purposes of single scattering (inherent) optical properties in radiative transfer codes. Basic ADT for sphere is just several lines of code. Wikipedia article on [http://en.wikipedia.org/wiki/Anomalous_Diffraction_Theory anomalous diffraction approximation] provides basic description of the theory.
 
 
 ||  Approximation || Refractive index m|| Size parameter x|| Phase shift x*abs(m-1) ||Wikipedia|| Codes || 
