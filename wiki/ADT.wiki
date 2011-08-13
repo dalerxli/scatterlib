@@ -7,6 +7,9 @@ Anomalous diffraction approximation (ADT) offers very approximate but computatio
 
 Wikipedia article on [http://en.wikipedia.org/wiki/Anomalous_Diffraction_Theory anomalous diffraction approximation] provides basic description of the theory. 
 
+The name eikonal approximation was originally used in optics but is now used almost exclusively in quantum mechanics. In ray optics one assumes that light travels
+in a straight line and when the particle is soft (doesn't bend light) an "image" (eikon) is formed by light traveling through a particle in a straight line. 
+
 
 ||Name || Author || Description ||
 ||[http://scatterlib.googlecode.com/files/adscat.zip ADSCAT] || P. J. Flatau || ADT implementation ||
