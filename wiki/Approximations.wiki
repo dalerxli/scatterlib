@@ -5,17 +5,15 @@ This classification was introduced originally by H. C. van de Hulst.
 
 
 
-<style "background-color: blue">
-||aa||bb||
 
-|| style="background: yellow Approximation || Refractive index m|| Size parameter x|| Phase shift x*abs(m-1) ||Wikipedia|| Codes || 
+||  Approximation || Refractive index m|| Size parameter x|| Phase shift x*abs(m-1) ||Wikipedia|| Codes || 
 ||Rayleigh scattering|| abs(mx) very small || very small || ||[http://en.wikipedia.org/wiki/Rayleigh_scattering Rayleigh scattering] || || 
 ||Geometric optics|| || very large|| very large|| [http://en.wikipedia.org/wiki/Geometrical_optics Geometrical optics] || || 
 ||Anomalous diffraction approximation|| abs(m-1) very small|| x large || || [http://en.wikipedia.org/wiki/Anomalous_Diffraction_Theory Anomalous diffraction approximation] || [http://code.google.com/p/scatterlib/wiki/ADT ADT]||
 ||Rayleigh-Gans|| abs(m-1) very small|| any x || close to 1||  || ||
 ||Complex Angular Momentum|| moderate m || large x || ||  ||[http://code.google.com/p/scatterlib/wiki/wiscombe_mieapx.zip CAM]||
 
-{{style='background-color: blue'}}
+
 ==References==
 A. A. Kokhanovsky,  and E. P. Zege, Optical properties of aerosol particles: A review of approximate analytical solutions, Journal of Aerosol Science,  Volume 28, Issue 1, January 1997, Pages 1-21
 doi:10.1016/S0021-8502(96)00058-4.
