@@ -12,7 +12,7 @@ This code was originally published in the Appendix of "Absorption and Scattering
 || [http://scatterlib.googlecode.com/files/bhmie-c.zip bhmie (C)] || Bohren and Huffman ||  Mie|| C|| Translation of  Bohren and Huffman code||
 || [http://scatterlib.googlecode.com/files/bhmie-idl.zip bhmie (IDL)] || Bohren and Huffman ||  Mie||  IDL|| Translation by Piotr Flatau ||
 || [http://scatterlib.googlecode.com/files/bhmie-matlab.zip bhmie (Matlab)] || Bohren and Huffman ||  Mie|| Matlab|| Translation  ||
-|| [http://scatterlib.googlecode.com/files/bhmie.py bhmie (Python)] || Bohren and Huffman || Mie || Python|| Herbert Kaiser (University of Konstanz, Germany)||
+|| [http://scatterlib.googlecode.com/files/bhmie_herbert_kaiser_july2012.py bhmie (Python)] || Bohren and Huffman || Mie || Python|| Herbert Kaiser (University of Konstanz, Germany)||
 
 ==Bohren and Huffman Mie Graphical User Interfaces==
 ||Name||Author||Type||Language||Description||
